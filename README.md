@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://tomekkde.github.io/TomekkDE/
+https://tomekkde.github.io/TomekkDE/Thomas_Lecture_2.html
